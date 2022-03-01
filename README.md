@@ -1,9 +1,12 @@
 # Exercicios-lacos1
+<ul>
 
-Testando maior e menor
+<li>Testando maior e menor</li>
 
-Mostrando Nota
+<li>Mostrando Nota</li>
 
-Mostrando o nome digitado
+<li>Mostrando o nome digitado</li>
 
-Mostrando numeros Par e Impar
+<li>Mostrando numeros Par e Impar</li>
+  
+<ul/>
